@@ -40,17 +40,6 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nombre_completo`, `correo`, `usuario`, `contrasena`) VALUES
-(21, 'Iris arriaga', 'iris@gmail.com', 'Tais', 'tais'),
-(22, 'Genesis', 'Genesis@gmail.com', 'gene', 'gene'),
-(23, 'Antonio Juan', 'juancho@gmail.com', 'Juancho', 'juancho'),
-(24, 'carlos', 'carlos@gmail.com', 'carlos', 'carlos'),
-(25, 'SADASD', 'FELIPE@GMAIL.COM', 'carlos', 'FDSFDSF'),
-(26, 'SADASD', 'FELIPFE@GMAIL.COM', 'carlos', 'FDSFDSF'),
-(27, 'sdas', 'sddsd@gmail.com', 'sda', 'sadas'),
-(30, 'kjsakdsj', 'kjasjd@gmail.com', 'djkalsjd', 'kjdsalksjd'),
-(31, 'asd', 'asdasd@gmail.com', 'sdf', 'sdf'),
-(32, 'carrlistos', 'carlitos@gamil.com', 'carlosss', 'carlos'),
-(33, 'Kevin', 'Kevin@gmail.com', 'kevin', 'gtasa2025'),
 (34, 'kevin', 'kevins@gmail.com', 'kevins', 'Gtasa2025g');
 
 --
